@@ -7,8 +7,8 @@ This Barangay Management System consisted of information of every person living 
 
 
 <div style="display:inline-block;">
-  <img src="sc1.png" width="600" />  
-  <img src="sc2.png" width="600" />  
+  <img src="sc1.png" width="800" />  
+  <img src="sc2.png" width="800" />  
    
 </div>
 ![](sc1.png)
