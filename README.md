@@ -1,16 +1,16 @@
 <h1>About</h1>
 
-<p style="line-height: 10px;   text-align: center; width: 80px;">
+<p style="line-height: 10px;   text-align: center; ">
 This Barangay Management System consisted of information of every person living inside of the given Barangay. In this system, we can input personal information and details of every individual inside the Barangay and save it inside the table. Our client hates writing every details to their logbook, as the list goes on the logbook/list gets messier and unorganized. </p>
 
 
 
 
 
-<div style="display:inline-block;">
+<div style="display:block; margin:0 auto; ">
   <img src="sc1.png" width="800" />  
   <img src="sc2.png" width="800" />  
-   
+  
 </div>
 ![](sc1.png)
 
