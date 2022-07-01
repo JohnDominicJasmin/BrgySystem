@@ -9,27 +9,15 @@
 
 
 
-<div style="display:block; margin:0 auto; ">
-  <img src="sc1.png" width="800" />  
-  <img src="sc2.png" width="800" />  
-  
-</div>
-![](sc1.png)
+  <img src="sc1.png" style="display:block; margin 0 auto; width: 700px;" />  
+  <img src="sc2.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc3.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc4.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc5.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc6.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc7.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc8.png"  style="display:block; margin 0 auto; width: 700px; " />  
+<img src="sc9.png"  style="display:block; margin 0 auto; width: 700px; " />  
+ <img src="sc10.png"  style="display:block; margin 0 auto; width: 700px; " />  
 
-![](sc2.png)
- 
-![](sc3.png)
 
-![](sc4.png)
-
-![](sc5.png)
-
-![](sc6.png)
-
-![](sc7.png)
-
-![](sc8.png)
-
-![](sc9.png)
-
-![](sc10.png)
